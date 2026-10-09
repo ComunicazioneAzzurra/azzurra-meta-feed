@@ -35,12 +35,13 @@ jobs:
       - name: Converti nel formato Meta
         run: |
           mkdir -p docs
+          touch docs/.nojekyll
           python convert.py feed_dealerk.xml url_map.json docs/meta_vehicles.csv
 
       - name: Pubblica
         run: |
           git config user.name "meta-feed-bot"
           git config user.email "meta-feed-bot@users.noreply.github.com"
-          git add url_map.json docs/meta_vehicles.csv
+          git add url_map.json docs/meta_vehicles.csv docs/.nojekyll
           git diff --cached --quiet || git commit -m "Aggiornamento feed $(date -u +%F)"
           git push
