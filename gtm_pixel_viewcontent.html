@@ -1,0 +1,27 @@
+<!--
+  Tag GTM "HTML personalizzato" – Meta Pixel ViewContent sulle schede auto
+  Contenitore: GTM-MTHQSZW (già presente su azzurrastore.it)
+
+  Attivatore: Visualizzazione pagina – DOM pronto
+    Condizione: Page Path inizia con /automobile/
+    (escludi Page Path uguale a /automobile/ , che è l'elenco)
+
+  Prerequisito: un tag con il codice base del Meta Pixel (fbq('init', ...) + PageView)
+  attivo su tutte le pagine, con la stessa gestione del consenso cookie del sito.
+
+  content_ids = "N. Stock" della scheda = vehicle_id del catalogo.
+-->
+<script>
+(function () {
+  var text = document.body ? document.body.innerText : '';
+  var m = text.match(/N\.\s*Stock\s*:?\s*(\d{5,10})/i);
+  if (!m || typeof fbq !== 'function') return;
+
+  var h1 = document.querySelector('h1');
+  fbq('track', 'ViewContent', {
+    content_type: 'vehicle',
+    content_ids: [m[1]],
+    content_name: h1 ? h1.innerText.replace(/\s+/g, ' ').trim() : undefined
+  });
+})();
+</script>
