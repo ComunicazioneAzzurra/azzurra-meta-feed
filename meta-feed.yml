@@ -12,7 +12,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
 
@@ -29,19 +29,35 @@ jobs:
           echo "Feed scaricato: $size byte"
           test "$size" -gt 1000000 || { echo "Feed troppo piccolo, mi fermo"; exit 1; }
 
-      - name: Aggiorna la mappa N. Stock -> URL del sito
-        run: python crawl_site.py url_map.json
-
-      - name: Converti nel formato Meta
+      - name: Pagine Pages senza Jekyll
         run: |
           mkdir -p docs
           touch docs/.nojekyll
-          python convert.py feed_dealerk.xml url_map.json docs/meta_vehicles.csv
+
+      # --- Azzurra Store ---------------------------------------------------
+      - name: "Azzurra Store: mappa N. Stock -> URL"
+        run: python crawl_site.py azzurrastore
+
+      - name: "Azzurra Store: converti nel formato Meta"
+        run: python convert.py azzurrastore feed_dealerk.xml
+
+      # --- Broker Automobili ----------------------------------------------
+      # continue-on-error: se Broker fallisce, Azzurra Store viene pubblicato lo stesso
+      - name: "Broker: mappa N. Stock -> URL"
+        id: broker_crawl
+        continue-on-error: true
+        run: python crawl_site.py broker
+
+      - name: "Broker: converti nel formato Meta"
+        if: steps.broker_crawl.outcome == 'success'
+        continue-on-error: true
+        run: python convert.py broker feed_dealerk.xml
 
       - name: Pubblica
+        if: always()
         run: |
           git config user.name "meta-feed-bot"
           git config user.email "meta-feed-bot@users.noreply.github.com"
-          git add url_map.json docs/meta_vehicles.csv docs/.nojekyll
+          git add -A docs url_map*.json
           git diff --cached --quiet || git commit -m "Aggiornamento feed $(date -u +%F)"
           git push

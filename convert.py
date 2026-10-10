@@ -1,14 +1,17 @@
 """Converte il feed XML DealerK (myPortalXML) nel catalogo Veicoli di Meta (CSV).
 
-Uso: python convert.py feed_dealerk.xml url_map.json meta_vehicles.csv
+Uso: python convert.py <sito> feed_dealerk.xml
+     (sito = chiave in config.SITES, es. azzurrastore, broker;
+      mappa e CSV di uscita sono quelli indicati in config.SITES)
 
-Nel CSV finiscono solo le auto che hanno una scheda su azzurrastore.it
-(cioè lo stock trovato in url_map.json). vehicle_id = N. Stock del sito
+Nel CSV finiscono solo le auto che hanno una scheda sul sito
+(cioè lo stock trovato nella mappa del sito). vehicle_id = N. Stock del sito
 (= externalId DealerK), lo stesso ID che il pixel invia in content_ids.
 """
 import csv
 import html
 import json
+import os
 import re
 import sys
 import xml.etree.ElementTree as ET
@@ -68,7 +71,7 @@ def price_band(p):
     return "oltre 45k"
 
 
-def build_row(car, url):
+def build_row(car, url, cfg):
     make, model, version = nice(t(car, "make")), t(car, "model"), t(car, "version")
     vtype = t(car, "type")
     km = int(float(t(car, "km") or 0)) if vtype != "NEW" else 0
@@ -78,7 +81,7 @@ def build_row(car, url):
     fuel, fuel_label = fuel_of(car)
     gear = t(car, "gear/gearType").lower()
 
-    sede = config.SEDI[config.DEALER_TO_SEDE.get(t(car, "dealer/name"), config.DEFAULT_SEDE)]
+    sede = cfg["sedi"][cfg["dealer_to_sede"].get(t(car, "dealer/name"), cfg["default_sede"])]
 
     imgs = sorted(car.findall("images/image"),
                   key=lambda i: (i.get("main") != "true", int(i.get("index") or 999)))
@@ -101,7 +104,8 @@ def build_row(car, url):
     ]
     if equip:
         desc_parts.append("Dotazioni: " + ", ".join(equip[:15]) + ".")
-    desc_parts.append(f"Disponibile da {sede['name']}.")
+    # Lo stock è condiviso tra le sedi: nel testo solo il marchio, non la città
+    desc_parts.append(f"Disponibile da {cfg['brand']}.")
 
     row = {
         "vehicle_id": car.get("externalId"),
@@ -142,7 +146,10 @@ def build_row(car, url):
     return row
 
 
-def main(feed_path, map_path, out_path):
+def main(site_key, feed_path):
+    cfg = config.site_config(site_key)
+    map_path, out_path = cfg["map_file"], cfg["output"]
+    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
     cars = ET.parse(feed_path).getroot().findall("car")
     url_map = {}
     for url, v in json.load(open(map_path)).items():
@@ -162,13 +169,13 @@ def main(feed_path, map_path, out_path):
         if not car.findall("images/image"):
             skipped["senza foto"] += 1
             continue
-        row = build_row(car, url)
+        row = build_row(car, url, cfg)
         if row["price"].startswith("0.00"):
             skipped["senza prezzo pubblico"] += 1
             continue
         rows.append(row)
 
-    print(f"feed DealerK: {len(cars)} veicoli | nel catalogo Meta: {len(rows)} | scartati: {skipped}")
+    print(f"[{site_key}] feed DealerK: {len(cars)} veicoli | nel catalogo Meta: {len(rows)} | scartati: {skipped}")
     if len(rows) < config.MIN_ROWS:
         # protezione: un feed DealerK vuoto o rotto non deve svuotare il catalogo Meta
         sys.exit(f"Solo {len(rows)} veicoli (minimo {config.MIN_ROWS}): CSV non aggiornato")
@@ -180,4 +187,4 @@ def main(feed_path, map_path, out_path):
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:4])
+    main(*sys.argv[1:3])

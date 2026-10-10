@@ -1,11 +1,11 @@
-"""Costruisce la mappa N. Stock -> URL scheda su azzurrastore.it.
+"""Costruisce la mappa N. Stock -> URL scheda per un sito (azzurrastore.it, brokerautomobili.com…).
 
 Il feed DealerK non contiene l'URL reale della scheda (vdpLink = "nochannel"),
 mentre ogni scheda del sito mostra "N. Stock", che coincide con l'externalId del feed.
 Lo script legge le sitemap, scarica solo le schede nuove (o vecchie di 7+ giorni)
-e salva la mappa in url_map.json, così le esecuzioni successive sono veloci.
+e salva la mappa nel file indicato in config.SITES, così le esecuzioni successive sono veloci.
 
-Uso: python crawl_site.py url_map.json
+Uso: python crawl_site.py <sito>      (sito = chiave in config.SITES, es. azzurrastore, broker)
 """
 import html
 import json
@@ -40,25 +40,27 @@ def extract_stock(page_html):
     return m.group(1) if m else None
 
 
-def sitemap_urls():
+def sitemap_urls(cfg):
     ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
     urls = []
-    for sm in config.SITEMAPS:
+    for sm in cfg["sitemaps"]:
         root = ET.fromstring(get(sm))
         for loc in root.findall(".//s:loc", ns):
             u = loc.text.strip()
-            if "/automobile/" in u and u.rstrip("/") != config.SITE + "/automobile":
+            if "/automobile/" in u and u.rstrip("/") != cfg["site"] + "/automobile":
                 urls.append(u)
     return urls
 
 
-def main(path):
+def main(site_key):
+    cfg = config.site_config(site_key)
+    path = cfg["map_file"]
     try:
         cache = json.load(open(path))
     except FileNotFoundError:
         cache = {}  # url -> {"stock": "...", "checked": "ISO date"}
 
-    live = set(sitemap_urls())
+    live = set(sitemap_urls(cfg))
     for u in list(cache):
         if u not in live:
             del cache[u]
@@ -84,10 +86,10 @@ def main(path):
         time.sleep(DELAY)
 
     json.dump(cache, open(path, "w"), indent=1, sort_keys=True)
-    print(f"sitemap: {len(live)} schede | scaricate ora: {len(todo)} "
+    print(f"[{site_key}] sitemap: {len(live)} schede | scaricate ora: {len(todo)} "
           f"(stock trovato {ok}, non trovato {fail}) | in mappa: "
           f"{sum(1 for v in cache.values() if v['stock'])}")
 
 
 if __name__ == "__main__":
-    main(sys.argv[1] if len(sys.argv) > 1 else "url_map.json")
+    main(sys.argv[1] if len(sys.argv) > 1 else "azzurrastore")
