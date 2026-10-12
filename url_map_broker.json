@@ -27,12 +27,12 @@
   "checked": "2026-10-10T08:40:17.307672+00:00",
   "stock": "2125113"
  },
- "https://brokerautomobili.com/automobile/alfa-romeo-junior-1-2-ibrida-145cv-edct6-5/": {
-  "checked": "2026-10-10T08:40:17.307672+00:00",
+ "https://brokerautomobili.com/automobile/alfa-romeo-junior-1-2-ibrida-145cv-edct6-3/": {
+  "checked": "2026-10-12T02:31:01.376570+00:00",
   "stock": "4033539"
  },
- "https://brokerautomobili.com/automobile/alfa-romeo-junior-1-2-ibrida-145cv-edct6-6/": {
-  "checked": "2026-10-10T08:40:17.307672+00:00",
+ "https://brokerautomobili.com/automobile/alfa-romeo-junior-1-2-ibrida-145cv-edct6-4/": {
+  "checked": "2026-10-12T02:31:01.376570+00:00",
   "stock": "4033540"
  },
  "https://brokerautomobili.com/automobile/alfa-romeo-junior-1-2-ibrida-145cv-edct6/": {
@@ -2499,6 +2499,10 @@
   "checked": "2026-10-10T08:40:17.307672+00:00",
   "stock": "4033467"
  },
+ "https://brokerautomobili.com/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-33/": {
+  "checked": "2026-10-12T02:31:01.376570+00:00",
+  "stock": "4033468"
+ },
  "https://brokerautomobili.com/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-34/": {
   "checked": "2026-10-10T08:40:17.307672+00:00",
   "stock": "4033468"
@@ -2575,10 +2579,6 @@
   "checked": "2026-10-10T08:40:17.307672+00:00",
   "stock": "4033577"
  },
- "https://brokerautomobili.com/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-52/": {
-  "checked": "2026-10-10T08:40:17.307672+00:00",
-  "stock": "4033578"
- },
  "https://brokerautomobili.com/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-6/": {
   "checked": "2026-10-10T08:40:17.307672+00:00",
   "stock": "4033321"
@@ -2635,8 +2635,8 @@
   "checked": "2026-10-10T08:40:17.307672+00:00",
   "stock": "1269514"
  },
- "https://brokerautomobili.com/automobile/fiat-scudo-ice-1-5-bluehdi-120cv-l1h1-business-2/": {
-  "checked": "2026-10-10T08:40:17.307672+00:00",
+ "https://brokerautomobili.com/automobile/fiat-scudo-ice-1-5-bluehdi-120cv-l1h1-business/": {
+  "checked": "2026-10-12T02:31:01.376570+00:00",
   "stock": "1315547"
  },
  "https://brokerautomobili.com/automobile/fiat-scudo-ice-1-5-bluehdi-120cv-l2h1-business/": {
@@ -5603,10 +5603,6 @@
   "checked": "2026-10-10T08:40:17.307672+00:00",
   "stock": "2113800"
  },
- "https://brokerautomobili.com/automobile/lancia-ypsilon-1-0-firefly-hybrid-oro-ss-70cv-11/": {
-  "checked": "2026-10-10T08:40:17.307672+00:00",
-  "stock": "2115498"
- },
  "https://brokerautomobili.com/automobile/lancia-ypsilon-1-0-firefly-hybrid-oro-ss-70cv-2/": {
   "checked": "2026-10-10T08:40:17.307672+00:00",
   "stock": "2112797"
@@ -5618,6 +5614,10 @@
  "https://brokerautomobili.com/automobile/lancia-ypsilon-1-0-firefly-hybrid-oro-ss-70cv-4/": {
   "checked": "2026-10-10T08:40:17.307672+00:00",
   "stock": "2114939"
+ },
+ "https://brokerautomobili.com/automobile/lancia-ypsilon-1-0-firefly-hybrid-oro-ss-70cv-5/": {
+  "checked": "2026-10-12T02:31:01.376570+00:00",
+  "stock": "2115500"
  },
  "https://brokerautomobili.com/automobile/lancia-ypsilon-1-0-firefly-hybrid-oro-ss-70cv-6/": {
   "checked": "2026-10-10T08:40:17.307672+00:00",
@@ -6519,9 +6519,9 @@
   "checked": "2026-10-10T08:40:17.307672+00:00",
   "stock": "5578058"
  },
- "https://brokerautomobili.com/automobile/renault-clio-1-6-e-tech-hybrid-intens-140cv-auto-my21-4/": {
-  "checked": "2026-10-10T08:40:17.307672+00:00",
-  "stock": "5578488"
+ "https://brokerautomobili.com/automobile/renault-clio-1-6-e-tech-hybrid-intens-140cv-auto-my21/": {
+  "checked": "2026-10-12T02:31:01.376570+00:00",
+  "stock": "5575129"
  },
  "https://brokerautomobili.com/automobile/renault-clio-1-6-e-tech-hybrid-zen-140cv-auto/": {
   "checked": "2026-10-10T08:40:17.307672+00:00",
