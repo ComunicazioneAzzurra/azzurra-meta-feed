@@ -4099,13 +4099,13 @@
   "checked": "2026-10-09T14:12:10.919557+00:00",
   "stock": "11000490"
  },
- "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-altitude-fwd-100cv-16/": {
-  "checked": "2026-10-09T14:12:10.919557+00:00",
-  "stock": "5586346"
- },
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-altitude-fwd-100cv-2/": {
   "checked": "2026-10-09T14:12:10.919557+00:00",
   "stock": "2120003"
+ },
+ "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-altitude-fwd-100cv-3/": {
+  "checked": "2026-10-15T02:41:34.065468+00:00",
+  "stock": "2120011"
  },
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-altitude-fwd-100cv-4/": {
   "checked": "2026-10-09T14:12:10.919557+00:00",
@@ -4227,10 +4227,6 @@
   "checked": "2026-10-09T14:12:10.919557+00:00",
   "stock": "2127485"
  },
- "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-29/": {
-  "checked": "2026-10-09T14:12:10.919557+00:00",
-  "stock": "2127489"
- },
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-3/": {
   "checked": "2026-10-09T14:12:10.919557+00:00",
   "stock": "1304789"
@@ -4242,6 +4238,10 @@
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-5/": {
   "checked": "2026-10-09T14:12:10.919557+00:00",
   "stock": "9022257"
+ },
+ "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-6/": {
+  "checked": "2026-10-15T02:41:34.065468+00:00",
+  "stock": "9022262"
  },
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-7/": {
   "checked": "2026-10-11T02:28:06.747724+00:00",
@@ -5623,13 +5623,13 @@
   "checked": "2026-10-09T14:12:10.919557+00:00",
   "stock": "2113802"
  },
+ "https://azzurrastore.it/automobile/lancia-ypsilon-1-0-firefly-hybrid-platino-ss-70cv-15/": {
+  "checked": "2026-10-15T02:41:34.065468+00:00",
+  "stock": "2121090"
+ },
  "https://azzurrastore.it/automobile/lancia-ypsilon-1-0-firefly-hybrid-platino-ss-70cv-16/": {
   "checked": "2026-10-09T14:12:10.919557+00:00",
   "stock": "2114442"
- },
- "https://azzurrastore.it/automobile/lancia-ypsilon-1-0-firefly-hybrid-platino-ss-70cv-17/": {
-  "checked": "2026-10-09T14:12:10.919557+00:00",
-  "stock": "2121090"
  },
  "https://azzurrastore.it/automobile/lancia-ypsilon-1-0-firefly-hybrid-platino-ss-70cv-2/": {
   "checked": "2026-10-09T14:12:10.919557+00:00",
