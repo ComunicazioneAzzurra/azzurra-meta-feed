@@ -20,7 +20,7 @@
   "stock": "9019247"
  },
  "https://azzurrastore.it/automobile/alfa-romeo-junior-1-2-ibrida-145cv-edct6-2/": {
-  "checked": "2026-10-19T02:39:49.936279+00:00",
+  "checked": "2026-10-26T02:43:40.326925+00:00",
   "stock": "2125113"
  },
  "https://azzurrastore.it/automobile/alfa-romeo-junior-1-2-ibrida-145cv-edct6-3/": {
@@ -28,7 +28,7 @@
   "stock": "4033536"
  },
  "https://azzurrastore.it/automobile/alfa-romeo-junior-1-2-ibrida-145cv-edct6-4/": {
-  "checked": "2026-10-19T02:39:49.936279+00:00",
+  "checked": "2026-10-26T02:43:40.326925+00:00",
   "stock": "4033540"
  },
  "https://azzurrastore.it/automobile/alfa-romeo-junior-1-2-ibrida-145cv-edct6/": {
@@ -276,8 +276,8 @@
   "stock": "9023221"
  },
  "https://azzurrastore.it/automobile/audi-a1-sportback-30-1-0-tfsi-s-line-edition-116cv-s-tronic-5/": {
-  "checked": "2026-10-19T02:39:49.936279+00:00",
-  "stock": "9023221"
+  "checked": "2026-10-26T02:43:40.326925+00:00",
+  "stock": "9023223"
  },
  "https://azzurrastore.it/automobile/audi-a1-sportback-30-1-0-tfsi-s-line-edition-116cv-s-tronic/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -544,7 +544,7 @@
   "stock": "2119071"
  },
  "https://azzurrastore.it/automobile/citroen-c4-1-2-puretech-plus-ss-130cv-5/": {
-  "checked": "2026-10-19T02:39:49.936279+00:00",
+  "checked": "2026-10-26T02:43:40.326925+00:00",
   "stock": "2119077"
  },
  "https://azzurrastore.it/automobile/citroen-c4-1-2-puretech-plus-ss-130cv-6/": {
@@ -1851,10 +1851,6 @@
   "checked": "2026-10-21T02:40:29.975274+00:00",
   "stock": "2116135"
  },
- "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-15/": {
-  "checked": "2026-10-21T02:40:29.975274+00:00",
-  "stock": "2126969"
- },
  "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-2/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "2116137"
@@ -1902,6 +1898,10 @@
  "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-8/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "2114966"
+ },
+ "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-9/": {
+  "checked": "2026-10-26T02:43:40.326925+00:00",
+  "stock": "2116135"
  },
  "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -2444,7 +2444,7 @@
   "stock": "4033411"
  },
  "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-22/": {
-  "checked": "2026-10-19T02:39:49.936279+00:00",
+  "checked": "2026-10-26T02:43:40.326925+00:00",
   "stock": "4033413"
  },
  "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-23/": {
@@ -2492,8 +2492,8 @@
   "stock": "4033469"
  },
  "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-33/": {
-  "checked": "2026-10-19T02:39:49.936279+00:00",
-  "stock": "4033469"
+  "checked": "2026-10-26T02:43:40.326925+00:00",
+  "stock": "4033470"
  },
  "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-34/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -2515,6 +2515,10 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "4033569"
  },
+ "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-39/": {
+  "checked": "2026-10-26T02:43:40.326925+00:00",
+  "stock": "4033571"
+ },
  "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-4/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "4033319"
@@ -2527,6 +2531,10 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "4033572"
  },
+ "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-42/": {
+  "checked": "2026-10-26T02:43:40.326925+00:00",
+  "stock": "4033574"
+ },
  "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-43/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "4033573"
@@ -2538,14 +2546,6 @@
  "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-45/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "4033576"
- },
- "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-46/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
-  "stock": "4033577"
- },
- "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-47/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
-  "stock": "4033578"
  },
  "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-5/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -4175,6 +4175,10 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "9022912"
  },
+ "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-2/": {
+  "checked": "2026-10-26T02:43:40.326925+00:00",
+  "stock": "1304781"
+ },
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-20/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "9022913"
@@ -4199,14 +4203,6 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "2127485"
  },
- "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-27/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
-  "stock": "2127490"
- },
- "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-28/": {
-  "checked": "2026-10-24T02:39:24.731452+00:00",
-  "stock": "1304781"
- },
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-3/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "1304789"
@@ -4214,6 +4210,10 @@
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-4/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "2121596"
+ },
+ "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-5/": {
+  "checked": "2026-10-26T02:43:40.326925+00:00",
+  "stock": "9022262"
  },
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-6/": {
   "checked": "2026-10-23T02:40:52.655900+00:00",
@@ -4967,8 +4967,8 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "2124567"
  },
- "https://azzurrastore.it/automobile/jeep-gladiator-3-0-v6-overland-4wd-auto-2/": {
-  "checked": "2026-10-23T02:40:52.655900+00:00",
+ "https://azzurrastore.it/automobile/jeep-gladiator-3-0-v6-overland-4wd-auto/": {
+  "checked": "2026-10-26T02:43:40.326925+00:00",
   "stock": "2121005"
  },
  "https://azzurrastore.it/automobile/jeep-grand-cherokee-3-0-crd-v6-summit-ss-250cv-auto-my16/": {
@@ -5024,7 +5024,7 @@
   "stock": "2102900"
  },
  "https://azzurrastore.it/automobile/jeep-renegade-1-0-t3-limited-2wd-5/": {
-  "checked": "2026-10-19T02:39:49.936279+00:00",
+  "checked": "2026-10-26T02:43:40.326925+00:00",
   "stock": "2108523"
  },
  "https://azzurrastore.it/automobile/jeep-renegade-1-0-t3-limited-2wd-6/": {
@@ -5560,7 +5560,7 @@
   "stock": "2114939"
  },
  "https://azzurrastore.it/automobile/lancia-ypsilon-1-0-firefly-hybrid-oro-ss-70cv-5/": {
-  "checked": "2026-10-19T02:39:49.936279+00:00",
+  "checked": "2026-10-26T02:43:40.326925+00:00",
   "stock": "2115500"
  },
  "https://azzurrastore.it/automobile/lancia-ypsilon-1-0-firefly-hybrid-oro-ss-70cv-6/": {
@@ -5620,7 +5620,7 @@
   "stock": "2113792"
  },
  "https://azzurrastore.it/automobile/lancia-ypsilon-1-0-firefly-hybrid-platino-ss-70cv-5/": {
-  "checked": "2026-10-19T02:39:49.936279+00:00",
+  "checked": "2026-10-26T02:43:40.326925+00:00",
   "stock": "2114941"
  },
  "https://azzurrastore.it/automobile/lancia-ypsilon-1-0-firefly-hybrid-platino-ss-70cv-6/": {
@@ -5959,8 +5959,8 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "9021740"
  },
- "https://azzurrastore.it/automobile/opel-mokka-1-5-elegance-ss-110cv-2/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
+ "https://azzurrastore.it/automobile/opel-mokka-1-5-elegance-ss-110cv/": {
+  "checked": "2026-10-26T02:43:40.326925+00:00",
   "stock": "5581107"
  },
  "https://azzurrastore.it/automobile/opel-mokka-1-6-cdti-cosmo-ss-4x2-136cv-m6/": {
@@ -6072,7 +6072,7 @@
   "stock": "1319022"
  },
  "https://azzurrastore.it/automobile/peugeot-208-1-2-puretech-allure-pack-ss-100cv-eat8/": {
-  "checked": "2026-10-19T02:39:49.936279+00:00",
+  "checked": "2026-10-26T02:43:40.326925+00:00",
   "stock": "9023113"
  },
  "https://azzurrastore.it/automobile/peugeot-208-1-2-puretech-allure-ss-100cv-10/": {
@@ -6480,7 +6480,7 @@
   "stock": "5578488"
  },
  "https://azzurrastore.it/automobile/renault-clio-1-6-e-tech-hybrid-intens-140cv-auto-my21/": {
-  "checked": "2026-10-19T02:39:49.936279+00:00",
+  "checked": "2026-10-26T02:43:40.326925+00:00",
   "stock": "5575129"
  },
  "https://azzurrastore.it/automobile/renault-clio-1-6-e-tech-hybrid-zen-140cv-auto/": {
