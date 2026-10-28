@@ -259,6 +259,10 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "4031981"
  },
+ "https://azzurrastore.it/automobile/audi-a1-1-6-tdi-attraction-105cv/": {
+  "checked": "2026-10-28T02:53:01.762536+00:00",
+  "stock": "9023190"
+ },
  "https://azzurrastore.it/automobile/audi-a1-sportback-30-1-0-tfsi-s-line-edition-110cv/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "9021535"
@@ -951,10 +955,6 @@
   "checked": "2026-10-24T02:39:24.731452+00:00",
   "stock": "9023121"
  },
- "https://azzurrastore.it/automobile/fiat-500-1-0-hybrid-club-70cv/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
-  "stock": "2099679"
- },
  "https://azzurrastore.it/automobile/fiat-500-1-0-hybrid-connect-70cv/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "5586350"
@@ -1271,10 +1271,6 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "2106888"
  },
- "https://azzurrastore.it/automobile/fiat-500x-1-0-t3-sport-120cv-15/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
-  "stock": "2110081"
- },
  "https://azzurrastore.it/automobile/fiat-500x-1-0-t3-sport-120cv-16/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "5510528"
@@ -1506,10 +1502,6 @@
  "https://azzurrastore.it/automobile/fiat-500x-dolcevita-1-5-t4-hybrid-cross-130cv-dct-2/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "2126890"
- },
- "https://azzurrastore.it/automobile/fiat-500x-dolcevita-1-5-t4-hybrid-cross-130cv-dct-3/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
-  "stock": "2102836"
  },
  "https://azzurrastore.it/automobile/fiat-500x-dolcevita-1-5-t4-hybrid-cross-130cv-dct-4/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -1752,7 +1744,7 @@
   "stock": "1315195"
  },
  "https://azzurrastore.it/automobile/fiat-fiorino-cargo-1-3-mjt-95cv-adventure/": {
-  "checked": "2026-10-21T02:40:29.975274+00:00",
+  "checked": "2026-10-28T02:53:01.762536+00:00",
   "stock": "1316157"
  },
  "https://azzurrastore.it/automobile/fiat-fiorino-cargo-1-3-mjt-95cv-sx/": {
@@ -1856,8 +1848,8 @@
   "stock": "1315988"
  },
  "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-14/": {
-  "checked": "2026-10-21T02:40:29.975274+00:00",
-  "stock": "2116135"
+  "checked": "2026-10-28T02:53:01.762536+00:00",
+  "stock": "2126969"
  },
  "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-2/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -2230,10 +2222,6 @@
  "https://azzurrastore.it/automobile/fiat-pandina-1-0-firefly-hybrid-icon-ss-70cv-5p-ti-4/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "2122498"
- },
- "https://azzurrastore.it/automobile/fiat-pandina-1-0-firefly-hybrid-icon-ss-70cv-5p-ti-5/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
-  "stock": "2122501"
  },
  "https://azzurrastore.it/automobile/fiat-pandina-1-0-firefly-hybrid-icon-ss-70cv-5p-ti-6/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -2747,10 +2735,6 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "2096215"
  },
- "https://azzurrastore.it/automobile/fiat-tipo-5p-1-6-mjt-garmin-ss-130cv/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
-  "stock": "2109643"
- },
  "https://azzurrastore.it/automobile/fiat-tipo-5p-1-6-mjt-life-ss-130cv-2/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "9019882"
@@ -2924,7 +2908,7 @@
   "stock": "1319773"
  },
  "https://azzurrastore.it/automobile/ford-ecosport-1-0-ecoboost-st-line-ss-125cv-my20-25-12/": {
-  "checked": "2026-10-21T02:40:29.975274+00:00",
+  "checked": "2026-10-28T02:53:01.762536+00:00",
   "stock": "1320624"
  },
  "https://azzurrastore.it/automobile/ford-ecosport-1-0-ecoboost-st-line-ss-125cv-my20-25-2/": {
@@ -3223,6 +3207,10 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "1286253"
  },
+ "https://azzurrastore.it/automobile/ford-fiesta-active-1-0-ecoboost-h-x-125cv-2/": {
+  "checked": "2026-10-28T02:53:01.762536+00:00",
+  "stock": "1312782"
+ },
  "https://azzurrastore.it/automobile/ford-fiesta-active-1-0-ecoboost-h-x-125cv-powershift/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "1271159"
@@ -3314,6 +3302,10 @@
  "https://azzurrastore.it/automobile/ford-focus-active-1-0-ecoboost-h-ss-125cv-my20-75/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "1267005"
+ },
+ "https://azzurrastore.it/automobile/ford-focus-active-1-0-ecoboost-h-style-125cv-2/": {
+  "checked": "2026-10-28T02:53:01.762536+00:00",
+  "stock": "1299112"
  },
  "https://azzurrastore.it/automobile/ford-focus-active-1-0-ecoboost-h-style-125cv/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -3651,6 +3643,10 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "1273404"
  },
+ "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-st-line-125cv-2/": {
+  "checked": "2026-10-28T02:53:01.762536+00:00",
+  "stock": "1297393"
+ },
  "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-st-line-125cv/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "5587356"
@@ -3790,6 +3786,10 @@
  "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-titanium-design-ss-125cv-4/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "1310283"
+ },
+ "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-titanium-design-ss-125cv-5/": {
+  "checked": "2026-10-28T02:53:01.762536+00:00",
+  "stock": "1316350"
  },
  "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-titanium-design-ss-125cv-auto/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -4006,10 +4006,6 @@
  "https://azzurrastore.it/automobile/ford-transit-connect-200-1-5-ecobluetdci-100cv-trend-l1h1-e6-2/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "1315525"
- },
- "https://azzurrastore.it/automobile/ford-transit-connect-200-1-5-tdci-100cv-entry-l1h1-e6-2-2/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
-  "stock": "1295273"
  },
  "https://azzurrastore.it/automobile/ford-transit-connect-200-1-5-tdci-100cv-entry-l1h1-e6-2/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -5151,6 +5147,10 @@
   "checked": "2026-10-24T02:39:24.731452+00:00",
   "stock": "1318229"
  },
+ "https://azzurrastore.it/automobile/jeep-renegade-1-0-t3-longitude-2wd-34/": {
+  "checked": "2026-10-28T02:53:01.762536+00:00",
+  "stock": "2126134"
+ },
  "https://azzurrastore.it/automobile/jeep-renegade-1-0-t3-longitude-2wd-4/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "2105191"
@@ -5660,12 +5660,16 @@
   "stock": "2126212"
  },
  "https://azzurrastore.it/automobile/lancia-ypsilon-1-0-firefly-hybrid-silver-ss-70cv-6/": {
-  "checked": "2026-10-21T02:40:29.975274+00:00",
+  "checked": "2026-10-28T02:53:01.762536+00:00",
   "stock": "2127318"
  },
  "https://azzurrastore.it/automobile/lancia-ypsilon-1-0-firefly-hybrid-silver-ss-70cv/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "2123423"
+ },
+ "https://azzurrastore.it/automobile/lancia-ypsilon-1-2-100cv/": {
+  "checked": "2026-10-28T02:53:01.762536+00:00",
+  "stock": "2125962"
  },
  "https://azzurrastore.it/automobile/lancia-ypsilon-1-2-gold-gpl-69cv/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -5748,7 +5752,7 @@
   "stock": "1310176"
  },
  "https://azzurrastore.it/automobile/mercedes-benz-classe-a/": {
-  "checked": "2026-10-21T02:40:29.975274+00:00",
+  "checked": "2026-10-28T02:53:01.762536+00:00",
   "stock": "1318947"
  },
  "https://azzurrastore.it/automobile/mercedes-benz-classe-b-b-180-d-cdi-business/": {
@@ -6416,7 +6420,7 @@
   "stock": "5588299"
  },
  "https://azzurrastore.it/automobile/renault-clio-1-0-tce-techno-90cv/": {
-  "checked": "2026-10-21T02:40:29.975274+00:00",
+  "checked": "2026-10-28T02:53:01.762536+00:00",
   "stock": "5586224"
  },
  "https://azzurrastore.it/automobile/renault-clio-1-5-blue-dci-business-100cv/": {
@@ -6470,6 +6474,10 @@
  "https://azzurrastore.it/automobile/renault-clio-1-6-e-tech-full-hybrid-equilibre-145cv-auto/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "5576763"
+ },
+ "https://azzurrastore.it/automobile/renault-clio-1-6-e-tech-full-hybrid-evolution-145cv/": {
+  "checked": "2026-10-28T02:53:01.762536+00:00",
+  "stock": "2127895"
  },
  "https://azzurrastore.it/automobile/renault-clio-1-6-e-tech-full-hybrid-techno-145cv/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -6675,10 +6683,6 @@
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "5503202"
  },
- "https://azzurrastore.it/automobile/renault-zoe-iconic-r135/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
-  "stock": "5541878"
- },
  "https://azzurrastore.it/automobile/renault-zoe-intens-r110-108cv/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "5451959"
@@ -6718,10 +6722,6 @@
  "https://azzurrastore.it/automobile/smart-fortwo-1-0-passion-71cv-twinamic/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
   "stock": "9022786"
- },
- "https://azzurrastore.it/automobile/smart-fortwo-cabrio-1-0-mhd-pulse-71cv-fl/": {
-  "checked": "2026-10-25T02:40:24.197274+00:00",
-  "stock": "9023001"
  },
  "https://azzurrastore.it/automobile/subaru-xv-1-6i-style-xtra-lineartronic/": {
   "checked": "2026-10-25T02:40:24.197274+00:00",
@@ -6808,7 +6808,7 @@
   "stock": "1246908"
  },
  "https://azzurrastore.it/automobile/volkswagen-polo-5p-1-0-tsi-highline-115cv-dsg/": {
-  "checked": "2026-10-21T02:40:29.975274+00:00",
+  "checked": "2026-10-28T02:53:01.762536+00:00",
   "stock": "5588944"
  },
  "https://azzurrastore.it/automobile/volkswagen-polo-5p-1-4-tdi-bm-cross/": {
@@ -6828,7 +6828,7 @@
   "stock": "11000441"
  },
  "https://azzurrastore.it/automobile/volkswagen-taigo-1-0-tsi-r-line-110cv/": {
-  "checked": "2026-10-21T02:40:29.975274+00:00",
+  "checked": "2026-10-28T02:53:01.762536+00:00",
   "stock": "1320274"
  },
  "https://azzurrastore.it/automobile/volvo-xc40-1-5-t2-momentum-auto-my21/": {
