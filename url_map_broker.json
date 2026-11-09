@@ -303,10 +303,6 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1237303"
  },
- "https://brokerautomobili.com/automobile/audi-a3-sportback-35-2-0-tdi-s-line-edition-s-tronic/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "9023167"
- },
  "https://brokerautomobili.com/automobile/audi-a3-sportback-40-1-4-tfsi-e-business-advanced-s-tronic-2/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "4025214"
@@ -558,10 +554,6 @@
  "https://brokerautomobili.com/automobile/citroen-c4-1-2-puretech-plus-ss-130cv-7/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2119080"
- },
- "https://brokerautomobili.com/automobile/citroen-c4-1-2-puretech-plus-ss-130cv-8/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "2119074"
  },
  "https://brokerautomobili.com/automobile/citroen-c4-1-2-puretech-plus-ss-130cv-9/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -1030,10 +1022,6 @@
  "https://brokerautomobili.com/automobile/fiat-500-1-0-hybrid-torino/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "4032846"
- },
- "https://brokerautomobili.com/automobile/fiat-500-1-2-cult-easypower-gpl-69cv/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "2101238"
  },
  "https://brokerautomobili.com/automobile/fiat-500-1-2-dolcevita-easypower-gpl-69cv/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -1859,10 +1847,6 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2116137"
  },
- "https://brokerautomobili.com/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-3/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "2116737"
- },
  "https://brokerautomobili.com/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-5/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2119088"
@@ -1919,10 +1903,6 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "9022948"
  },
- "https://brokerautomobili.com/automobile/fiat-panda-1-2-climbing-4x4-69cv-e5/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "2125463"
- },
  "https://brokerautomobili.com/automobile/fiat-panda-1-2-dynamic-eco/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "9022648"
@@ -1930,10 +1910,6 @@
  "https://brokerautomobili.com/automobile/fiat-panda-1-2-easy-69cv-2/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "9023043"
- },
- "https://brokerautomobili.com/automobile/fiat-panda-1-2-easy-69cv-3/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "9022884"
  },
  "https://brokerautomobili.com/automobile/fiat-panda-1-2-easy-69cv/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -2455,10 +2431,6 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "4033468"
  },
- "https://brokerautomobili.com/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-32/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "4033469"
- },
  "https://brokerautomobili.com/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-33/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "4033470"
@@ -2583,10 +2555,6 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "4033564"
  },
- "https://brokerautomobili.com/automobile/fiat-scudo-ice-van-m-1-5-diesel-120cv-ss/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "2125569"
- },
  "https://brokerautomobili.com/automobile/fiat-scudo-ice-van-xl-2-2-diesel-150cv-ss/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "4033565"
@@ -2698,10 +2666,6 @@
  "https://brokerautomobili.com/automobile/fiat-tipo-5p-1-6-mjt-cross-ss-130cv/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2096215"
- },
- "https://brokerautomobili.com/automobile/fiat-tipo-5p-1-6-mjt-life-ss-130cv-2/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "9019882"
  },
  "https://brokerautomobili.com/automobile/fiat-tipo-5p-1-6-mjt-life-ss-130cv/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -3531,6 +3495,10 @@
   "checked": "2026-11-07T02:55:53.565096+00:00",
   "stock": "1319511"
  },
+ "https://brokerautomobili.com/automobile/ford-kuga-2-5-phev-st-line-2wd-225cv-cvt-11/": {
+  "checked": "2026-11-09T02:56:00.929043+00:00",
+  "stock": "1303188"
+ },
  "https://brokerautomobili.com/automobile/ford-kuga-2-5-phev-st-line-2wd-225cv-cvt-2/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1300767"
@@ -3603,10 +3571,6 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1296788"
  },
- "https://brokerautomobili.com/automobile/ford-kuga-2-5-phev-st-line-x-2wd-225cv-cvt-8/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "1312013"
- },
  "https://brokerautomobili.com/automobile/ford-kuga-2-5-phev-st-line-x-2wd-225cv-cvt-9/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1315393"
@@ -3662,10 +3626,6 @@
  "https://brokerautomobili.com/automobile/ford-puma-1-0-ecoboost-h-st-line-ss-125cv-17/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1305927"
- },
- "https://brokerautomobili.com/automobile/ford-puma-1-0-ecoboost-h-st-line-ss-125cv-18/": {
-  "checked": "2026-11-06T02:56:54.195201+00:00",
-  "stock": "1318775"
  },
  "https://brokerautomobili.com/automobile/ford-puma-1-0-ecoboost-h-st-line-ss-125cv-2/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -3875,10 +3835,6 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1318392"
  },
- "https://brokerautomobili.com/automobile/ford-puma-1-0-ecoboost-h-titanium-ss-125cv-33/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "1320266"
- },
  "https://brokerautomobili.com/automobile/ford-puma-1-0-ecoboost-h-titanium-ss-125cv-34/": {
   "checked": "2026-11-03T03:23:12.877440+00:00",
   "stock": "1252885"
@@ -3922,10 +3878,6 @@
  "https://brokerautomobili.com/automobile/ford-puma-1-0-ecoboost-h-titanium-ss-125cv/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1252885"
- },
- "https://brokerautomobili.com/automobile/ford-puma-1-0-ecoboost-h-titanium-x-ss-125cv-2/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "1305991"
  },
  "https://brokerautomobili.com/automobile/ford-puma-1-0-ecoboost-h-titanium-x-ss-125cv-3/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -4035,6 +3987,10 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1315414"
  },
+ "https://brokerautomobili.com/automobile/ford-transit-custom-280-2-0-tdci-130cv-trend-l1h1-e6-2-2/": {
+  "checked": "2026-11-09T02:56:00.929043+00:00",
+  "stock": "1316531"
+ },
  "https://brokerautomobili.com/automobile/ford-transit-custom-280-2-0-tdci-130cv-trend-l1h1-e6-2/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1317811"
@@ -4042,10 +3998,6 @@
  "https://brokerautomobili.com/automobile/ford-transit-custom-320-2-0-tdci-130cv-trend-l2h1-e6-2/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1310076"
- },
- "https://brokerautomobili.com/automobile/ford-transit-custom-custom-t-l1h1-130cv/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "1316531"
  },
  "https://brokerautomobili.com/automobile/ford-transit-custom-v710-280-2-0-ecoblue-136cv-trend-l1h1/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -4203,10 +4155,6 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2125104"
  },
- "https://brokerautomobili.com/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-7/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "9022898"
- },
  "https://brokerautomobili.com/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-8/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "9022903"
@@ -4290,10 +4238,6 @@
  "https://brokerautomobili.com/automobile/jeep-avenger-1-2-turbo-summit-fwd-100cv-6/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2123626"
- },
- "https://brokerautomobili.com/automobile/jeep-avenger-1-2-turbo-summit-fwd-100cv-7/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "2124039"
  },
  "https://brokerautomobili.com/automobile/jeep-avenger-1-2-turbo-summit-fwd-100cv-8/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -4951,10 +4895,6 @@
   "checked": "2026-11-06T02:56:54.195201+00:00",
   "stock": "2128172"
  },
- "https://brokerautomobili.com/automobile/jeep-grand-cherokee-3-0-crd-v6-summit-ss-250cv-auto-my16/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "2121394"
- },
  "https://brokerautomobili.com/automobile/jeep-renegade-1-0-t3-limited-2wd-10/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2099641"
@@ -5335,10 +5275,6 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2125872"
  },
- "https://brokerautomobili.com/automobile/jeep-renegade-1-6-mjt-dawn-of-justice-fwd-120cv/": {
-  "checked": "2026-11-06T02:56:54.195201+00:00",
-  "stock": "2128400"
- },
  "https://brokerautomobili.com/automobile/jeep-renegade-1-6-mjt-limited-2wd-120cv-2/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "9022691"
@@ -5374,6 +5310,10 @@
  "https://brokerautomobili.com/automobile/jeep-renegade-1-6-mjt-limited-fwd-120cv-e6-2/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2091067"
+ },
+ "https://brokerautomobili.com/automobile/jeep-renegade-1-6-mjt-limited-fwd-120cv-e6-3/": {
+  "checked": "2026-11-09T02:56:00.929043+00:00",
+  "stock": "2128400"
  },
  "https://brokerautomobili.com/automobile/jeep-renegade-1-6-mjt-limited-fwd-120cv-e6/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -5687,9 +5627,9 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2125495"
  },
- "https://brokerautomobili.com/automobile/lancia-ypsilon-1-2-mhev-lx-110cv-e-dct-4/": {
-  "checked": "2026-11-06T02:56:54.195201+00:00",
-  "stock": "2125494"
+ "https://brokerautomobili.com/automobile/lancia-ypsilon-1-2-mhev-lx-110cv-e-dct-5/": {
+  "checked": "2026-11-09T02:56:00.929043+00:00",
+  "stock": "2127722"
  },
  "https://brokerautomobili.com/automobile/lancia-ypsilon-1-2-mhev-lx-110cv-e-dct/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -5767,10 +5707,6 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1231546"
  },
- "https://brokerautomobili.com/automobile/mercedes-benz-classe-b-b-180-progressive-advanced-plus-auto-2/": {
-  "checked": "2026-11-07T02:55:53.565096+00:00",
-  "stock": "9023180"
- },
  "https://brokerautomobili.com/automobile/mercedes-benz-classe-c-c-180-d-bt-business-auto/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "9023207"
@@ -5778,10 +5714,6 @@
  "https://brokerautomobili.com/automobile/mercedes-benz-classe-c-c-sw-220-d-mhev-premium-plus-auto/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "11000406"
- },
- "https://brokerautomobili.com/automobile/mercedes-benz-classe-e-e-sw-all-terrain-220-d-business-sport-4matic-auto/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "1258507"
  },
  "https://brokerautomobili.com/automobile/mercedes-benz-gla-200-d-premium-4matic-auto/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -5875,17 +5807,9 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "5524702"
  },
- "https://brokerautomobili.com/automobile/opel-corsa-1-2-gs-ss-100cv-2/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "2126016"
- },
  "https://brokerautomobili.com/automobile/opel-corsa-1-2-gs-ss-100cv-3/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2127690"
- },
- "https://brokerautomobili.com/automobile/opel-corsa-1-2-gs-ss-100cv-4/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "2127691"
  },
  "https://brokerautomobili.com/automobile/opel-corsa-1-2-gs-ss-100cv-5/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
@@ -6519,10 +6443,6 @@
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "5581268"
  },
- "https://brokerautomobili.com/automobile/renault-clio-5p-1-2-costume-national-75cv/": {
-  "checked": "2026-11-04T03:46:15.762578+00:00",
-  "stock": "9022395"
- },
  "https://brokerautomobili.com/automobile/renault-clio-5p-1-5-dci-live-75cv/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "2112977"
@@ -6826,6 +6746,10 @@
  "https://brokerautomobili.com/automobile/volkswagen-polo-1-0-tsi-style-95cv/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
   "stock": "1246908"
+ },
+ "https://brokerautomobili.com/automobile/volkswagen-polo-5p-1-0-mpi-trendline-60cv/": {
+  "checked": "2026-11-09T02:56:00.929043+00:00",
+  "stock": "1320791"
  },
  "https://brokerautomobili.com/automobile/volkswagen-polo-5p-1-0-tsi-highline-115cv-dsg/": {
   "checked": "2026-11-04T03:46:15.762578+00:00",
