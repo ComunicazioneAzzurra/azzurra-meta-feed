@@ -464,7 +464,7 @@
   "stock": "5583236"
  },
  "https://azzurrastore.it/automobile/citroen-c3-1-2-puretech-you-ss-83cv/": {
-  "checked": "2026-11-05T02:57:50.856943+00:00",
+  "checked": "2026-11-12T09:48:36.916643+00:00",
   "stock": "2113426"
  },
  "https://azzurrastore.it/automobile/citroen-c3-aircross-1-2-puretech-feel-ss-110cv-2/": {
@@ -743,10 +743,6 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "5583332"
  },
- "https://azzurrastore.it/automobile/dacia-duster-1-5-blue-dci-techroad-4x2-115cv/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "9023262"
- },
  "https://azzurrastore.it/automobile/dacia-duster-1-5-dci-laureate-4x2-ss-110cv-my17/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "5510166"
@@ -791,17 +787,9 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "5582999"
  },
- "https://azzurrastore.it/automobile/dacia-sandero-stepway-1-0-tce-comfort-eco-g-100cv/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "5585410"
- },
  "https://azzurrastore.it/automobile/dacia-sandero-stepway-1-0-tce-expression-eco-g-100cv/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "5587976"
- },
- "https://azzurrastore.it/automobile/dacia-sandero-stepway-1-0-tce-expression-up-eco-g-100cv/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "5587794"
  },
  "https://azzurrastore.it/automobile/dacia-sandero-streetway-1-0-tce-comfort-eco-g-100cv-2/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -1611,10 +1599,6 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "9023328"
  },
- "https://azzurrastore.it/automobile/fiat-doblo-doblo-van-m-1-5-diesel-100cv-12/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "9023330"
- },
  "https://azzurrastore.it/automobile/fiat-doblo-doblo-van-m-1-5-diesel-100cv-2/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "9023077"
@@ -1635,13 +1619,17 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2127480"
  },
+ "https://azzurrastore.it/automobile/fiat-doblo-doblo-van-m-1-5-diesel-100cv-7/": {
+  "checked": "2026-11-12T09:48:36.916643+00:00",
+  "stock": "9023329"
+ },
  "https://azzurrastore.it/automobile/fiat-doblo-doblo-van-m-1-5-diesel-100cv-8/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "9023329"
  },
  "https://azzurrastore.it/automobile/fiat-doblo-doblo-van-m-1-5-diesel-100cv-9/": {
-  "checked": "2026-11-05T02:57:50.856943+00:00",
-  "stock": "9023326"
+  "checked": "2026-11-12T09:48:36.916643+00:00",
+  "stock": "9023327"
  },
  "https://azzurrastore.it/automobile/fiat-doblo-doblo-van-m-1-5-diesel-100cv/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -1827,13 +1815,13 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2126969"
  },
- "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-15/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "2116737"
- },
  "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-2/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2116137"
+ },
+ "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-4/": {
+  "checked": "2026-11-12T09:48:36.916643+00:00",
+  "stock": "2116737"
  },
  "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-5/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -1890,6 +1878,10 @@
  "https://azzurrastore.it/automobile/fiat-panda-1-2-classic-69cv/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "9022948"
+ },
+ "https://azzurrastore.it/automobile/fiat-panda-1-2-climbing-4x4-69cv-e5-2/": {
+  "checked": "2026-11-12T09:48:36.916643+00:00",
+  "stock": "2125463"
  },
  "https://azzurrastore.it/automobile/fiat-panda-1-2-dynamic-eco/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -1983,10 +1975,6 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2109868"
  },
- "https://azzurrastore.it/automobile/fiat-panda-panda-0-9-t-air-t-cross-4x4-ss-85cv-5p-ti-22/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "4030760"
- },
  "https://azzurrastore.it/automobile/fiat-panda-panda-0-9-t-air-t-cross-4x4-ss-85cv-5p-ti-3/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2109851"
@@ -2006,6 +1994,10 @@
  "https://azzurrastore.it/automobile/fiat-panda-panda-0-9-t-air-t-cross-4x4-ss-85cv-5p-ti-7/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2126404"
+ },
+ "https://azzurrastore.it/automobile/fiat-panda-panda-0-9-t-air-t-cross-4x4-ss-85cv-5p-ti-8/": {
+  "checked": "2026-11-12T09:48:36.916643+00:00",
+  "stock": "4030811"
  },
  "https://azzurrastore.it/automobile/fiat-panda-panda-0-9-t-air-t-cross-4x4-ss-85cv-5p-ti-9/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -2146,6 +2138,10 @@
  "https://azzurrastore.it/automobile/fiat-pandina-1-0-firefly-hybrid-icon-ss-70cv-5p-ti-23/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2123587"
+ },
+ "https://azzurrastore.it/automobile/fiat-pandina-1-0-firefly-hybrid-icon-ss-70cv-5p-ti-24/": {
+  "checked": "2026-11-12T09:48:36.916643+00:00",
+  "stock": "2122604"
  },
  "https://azzurrastore.it/automobile/fiat-pandina-1-0-firefly-hybrid-icon-ss-70cv-5p-ti-3/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -3122,10 +3118,6 @@
  "https://azzurrastore.it/automobile/ford-fiesta-active-1-0-ecoboost-h-x-125cv/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "1299855"
- },
- "https://azzurrastore.it/automobile/ford-fiesta-active-1-5-tdci-85cv-my18/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "1299743"
  },
  "https://azzurrastore.it/automobile/ford-focus-1-0-ecoboost-business-ss-100cv-my20-75/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -5611,14 +5603,6 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2125495"
  },
- "https://azzurrastore.it/automobile/lancia-ypsilon-1-2-mhev-lx-110cv-e-dct-5/": {
-  "checked": "2026-11-09T02:55:44.862341+00:00",
-  "stock": "2127722"
- },
- "https://azzurrastore.it/automobile/lancia-ypsilon-1-2-mhev-lx-110cv-e-dct-6/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "2125494"
- },
  "https://azzurrastore.it/automobile/lancia-ypsilon-1-2-mhev-lx-110cv-e-dct/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2125490"
@@ -6339,10 +6323,6 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "5553075"
  },
- "https://azzurrastore.it/automobile/renault-clio-1-0-tce-techno-90cv/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "5588292"
- },
  "https://azzurrastore.it/automobile/renault-clio-1-5-blue-dci-business-100cv/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "5578368"
@@ -6426,10 +6406,6 @@
  "https://azzurrastore.it/automobile/renault-clio-1-8-full-hybrid-e-tech-techno-160cv-auto/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "5581268"
- },
- "https://azzurrastore.it/automobile/renault-clio-5p-1-2-costume-national-75cv-2/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "9022395"
  },
  "https://azzurrastore.it/automobile/renault-clio-5p-1-5-dci-live-75cv/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -6687,10 +6663,6 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2120498"
  },
- "https://azzurrastore.it/automobile/suzuki-vitara-1-4-boosterjet-top-4wd-allgrip/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "9023196"
- },
  "https://azzurrastore.it/automobile/suzuki-vitara-1-4h-cool-4wd-allgrip-129cv/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "5586331"
@@ -6726,10 +6698,6 @@
  "https://azzurrastore.it/automobile/volkswagen-golf-2-0-tdi-style-150cv-dsg/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "1313079"
- },
- "https://azzurrastore.it/automobile/volkswagen-golf-5p-1-6-tdi-highline-4motion/": {
-  "checked": "2026-11-06T02:56:15.901360+00:00",
-  "stock": "2128550"
  },
  "https://azzurrastore.it/automobile/volkswagen-polo-1-0-tsi-style-95cv-2/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
