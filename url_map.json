@@ -76,7 +76,7 @@
   "stock": "2117413"
  },
  "https://azzurrastore.it/automobile/alfa-romeo-stelvio-2-2-t-sprint-q4-190cv-auto/": {
-  "checked": "2026-11-08T02:57:35.426212+00:00",
+  "checked": "2026-11-15T09:21:46.636493+00:00",
   "stock": "2075145"
  },
  "https://azzurrastore.it/automobile/alfa-romeo-stelvio-2-2-t-ti-q4-210cv-auto-2/": {
@@ -571,8 +571,8 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2119080"
  },
- "https://azzurrastore.it/automobile/citroen-c4-1-2-puretech-plus-ss-130cv-9/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
+ "https://azzurrastore.it/automobile/citroen-c4-1-2-puretech-plus-ss-130cv-8/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
   "stock": "2119079"
  },
  "https://azzurrastore.it/automobile/citroen-c4-1-2-puretech-plus-ss-130cv-eat8-2/": {
@@ -1656,7 +1656,7 @@
   "stock": "2128305"
  },
  "https://azzurrastore.it/automobile/fiat-ducato-33-ch1-2-3-mjt-160cv-semivetrato-e6d-temp/": {
-  "checked": "2026-11-08T02:57:35.426212+00:00",
+  "checked": "2026-11-15T09:21:46.636493+00:00",
   "stock": "2067506"
  },
  "https://azzurrastore.it/automobile/fiat-ducato-35-l3h2-2-2-diesel-140cv/": {
@@ -1776,7 +1776,7 @@
   "stock": "9021497"
  },
  "https://azzurrastore.it/automobile/fiat-panda-0-9-t-air-t-cross-4x4-ss-85cv-5p-ti/": {
-  "checked": "2026-11-08T02:57:35.426212+00:00",
+  "checked": "2026-11-15T09:21:46.636493+00:00",
   "stock": "2106001"
  },
  "https://azzurrastore.it/automobile/fiat-panda-0-9-t-air-t-cross-4x4-ss-85cv/": {
@@ -1819,9 +1819,9 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "1315988"
  },
- "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-14/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "2126969"
+ "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-3/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
+  "stock": "2116737"
  },
  "https://azzurrastore.it/automobile/fiat-panda-1-0-firefly-hybrid-ss-70cv-4/": {
   "checked": "2026-11-12T09:48:36.916643+00:00",
@@ -1879,8 +1879,8 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "9022948"
  },
- "https://azzurrastore.it/automobile/fiat-panda-1-2-climbing-4x4-69cv-e5-2/": {
-  "checked": "2026-11-12T09:48:36.916643+00:00",
+ "https://azzurrastore.it/automobile/fiat-panda-1-2-climbing-4x4-69cv-e5/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
   "stock": "2125463"
  },
  "https://azzurrastore.it/automobile/fiat-panda-1-2-dynamic-eco/": {
@@ -2391,6 +2391,10 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "4033467"
  },
+ "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-32/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
+  "stock": "4033471"
+ },
  "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-34/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "4033471"
@@ -2438,10 +2442,6 @@
  "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-44/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "4033577"
- },
- "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-45/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "4033578"
  },
  "https://azzurrastore.it/automobile/fiat-pandina-cross-1-0-firefly-hybrid-ss-65cv-5/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -2495,8 +2495,8 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "4033542"
  },
- "https://azzurrastore.it/automobile/fiat-scudo-ice-van-m-1-5-diesel-120cv-ss-3/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
+ "https://azzurrastore.it/automobile/fiat-scudo-ice-van-m-1-5-diesel-120cv-ss/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
   "stock": "4033564"
  },
  "https://azzurrastore.it/automobile/fiat-scudo-ice-van-xl-2-2-diesel-150cv-ss/": {
@@ -3499,10 +3499,6 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "1312552"
  },
- "https://azzurrastore.it/automobile/ford-kuga-2-5-phev-st-line-x-2wd-225cv-cvt-12/": {
-  "checked": "2026-11-14T08:56:59.653305+00:00",
-  "stock": "1304594"
- },
  "https://azzurrastore.it/automobile/ford-kuga-2-5-phev-st-line-x-2wd-225cv-cvt-2/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2110892"
@@ -3526,6 +3522,10 @@
  "https://azzurrastore.it/automobile/ford-kuga-2-5-phev-st-line-x-2wd-225cv-cvt-7/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "1296788"
+ },
+ "https://azzurrastore.it/automobile/ford-kuga-2-5-phev-st-line-x-2wd-225cv-cvt-8/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
+  "stock": "1315393"
  },
  "https://azzurrastore.it/automobile/ford-kuga-2-5-phev-st-line-x-2wd-225cv-cvt-9/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -3791,6 +3791,10 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "1318392"
  },
+ "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-titanium-ss-125cv-33/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
+  "stock": "2128555"
+ },
  "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-titanium-ss-125cv-34/": {
   "checked": "2026-11-10T09:46:25.752991+00:00",
   "stock": "2128555"
@@ -3798,10 +3802,6 @@
  "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-titanium-ss-125cv-35/": {
   "checked": "2026-11-13T09:29:31.888285+00:00",
   "stock": "1319358"
- },
- "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-titanium-ss-125cv-36/": {
-  "checked": "2026-11-13T09:29:31.888285+00:00",
-  "stock": "1320231"
  },
  "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-titanium-ss-125cv-4/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -3839,8 +3839,8 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "1252885"
  },
- "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-titanium-x-ss-125cv-3/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
+ "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-titanium-x-ss-125cv-2/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
   "stock": "1307903"
  },
  "https://azzurrastore.it/automobile/ford-puma-1-0-ecoboost-h-titanium-x-ss-125cv/": {
@@ -4095,10 +4095,6 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2127485"
  },
- "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-24/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "2127490"
- },
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-3/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "1304789"
@@ -4114,6 +4110,10 @@
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-6/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2125104"
+ },
+ "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-7/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
+  "stock": "9022903"
  },
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-e-hybrid-mhev-summit-fwd-110cv-edct6-8/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -4183,10 +4183,6 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2128360"
  },
- "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-summit-fwd-100cv-17/": {
-  "checked": "2026-11-13T09:29:31.888285+00:00",
-  "stock": "2128357"
- },
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-summit-fwd-100cv-2/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2120007"
@@ -4206,6 +4202,10 @@
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-summit-fwd-100cv-6/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2123626"
+ },
+ "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-summit-fwd-100cv-7/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
+  "stock": "2121510"
  },
  "https://azzurrastore.it/automobile/jeep-avenger-1-2-turbo-summit-fwd-100cv-8/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -4324,7 +4324,7 @@
   "stock": "2105465"
  },
  "https://azzurrastore.it/automobile/jeep-compass-1-3-turbo-t4-phev-s-4xe-auto/": {
-  "checked": "2026-11-08T02:57:35.426212+00:00",
+  "checked": "2026-11-15T09:21:46.636493+00:00",
   "stock": "4027736"
  },
  "https://azzurrastore.it/automobile/jeep-compass-1-3-turbo-t4-s-2wd-150cv-ddct-my20/": {
@@ -5124,7 +5124,7 @@
   "stock": "2117576"
  },
  "https://azzurrastore.it/automobile/jeep-renegade-1-3-t4-phev-limited-4xe-at6/": {
-  "checked": "2026-11-08T02:57:35.426212+00:00",
+  "checked": "2026-11-15T09:21:46.636493+00:00",
   "stock": "2096157"
  },
  "https://azzurrastore.it/automobile/jeep-renegade-1-3-t4-phev-s-4xe-at6-2/": {
@@ -5659,8 +5659,8 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "11000406"
  },
- "https://azzurrastore.it/automobile/mercedes-benz-classe-e-e-sw-all-terrain-220-d-business-sport-4matic-auto-2/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
+ "https://azzurrastore.it/automobile/mercedes-benz-classe-e-e-sw-all-terrain-220-d-business-sport-4matic-auto/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
   "stock": "1258507"
  },
  "https://azzurrastore.it/automobile/mercedes-benz-gla-200-d-premium-4matic-auto/": {
@@ -5755,9 +5755,17 @@
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "5524702"
  },
+ "https://azzurrastore.it/automobile/opel-corsa-1-2-gs-ss-100cv-2/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
+  "stock": "2127690"
+ },
  "https://azzurrastore.it/automobile/opel-corsa-1-2-gs-ss-100cv-3/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2127690"
+ },
+ "https://azzurrastore.it/automobile/opel-corsa-1-2-gs-ss-100cv-4/": {
+  "checked": "2026-11-15T09:21:46.636493+00:00",
+  "stock": "2127689"
  },
  "https://azzurrastore.it/automobile/opel-corsa-1-2-gs-ss-100cv-5/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
@@ -5766,14 +5774,6 @@
  "https://azzurrastore.it/automobile/opel-corsa-1-2-gs-ss-100cv-6/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
   "stock": "2127684"
- },
- "https://azzurrastore.it/automobile/opel-corsa-1-2-gs-ss-100cv-7/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "2127692"
- },
- "https://azzurrastore.it/automobile/opel-corsa-1-2-gs-ss-100cv-8/": {
-  "checked": "2026-11-11T09:21:26.464396+00:00",
-  "stock": "2127691"
  },
  "https://azzurrastore.it/automobile/opel-corsa-1-2-gs-ss-100cv/": {
   "checked": "2026-11-11T09:21:26.464396+00:00",
